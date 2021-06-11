@@ -4,8 +4,23 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
+    width:500px;
     padding:20px;
     border-radius:25px;
-    align:center;
+    box-align:center;
+
+}
+span{
+    padding: 0px 50px;
+}
+
+input[type=number]{
+    margin-left:40px;
+}
+
+select{
+    margin-left:10px;
+}
+button{
+    margin:0px 50px;
 }
