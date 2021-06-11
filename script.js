@@ -25,5 +25,5 @@ function checkvalue()
     if(principal==0 || principal<0 ){
     alert("Enter a positive number");
     }
-    document.getElementById("principal").focus()
+    document.getElementById("principal").focus()//Point to the input number in prinicipal
 }

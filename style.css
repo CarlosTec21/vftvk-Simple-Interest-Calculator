@@ -10,6 +10,7 @@ h1{color:grey;font-family:verdana}
     box-align:center;
 
 }
+/*Adding space between the span elements*/
 span{
     padding: 0px 50px;
 }
